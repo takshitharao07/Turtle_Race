@@ -1,4 +1,6 @@
 # Turtle_Race - Survival of the fastest
+https://user-images.githubusercontent.com/74850430/151219360-4ebd003a-ac47-49f8-939e-51d161be364b.mp4
+
 ALgorithm:
 
 1. Start.
